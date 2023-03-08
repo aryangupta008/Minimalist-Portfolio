@@ -1,18 +1,18 @@
-# Getting Started with Create React App
+# Minimalist Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Minimalist Portfolio is a simple and minimalistic portfolio template consisting of three pages - Home, Contact, and Get Connected. It is designed to be easy to use and highly customizable, allowing users to quickly create their own portfolio website.
 
-## Available Scripts
+## Getting Started
+### Prerequisites
 
-In the project directory, you can run:
+Before using Minimalist Portfolio, you will need to have Node.js and npm installed on your system. You can download and install them from the official Node.js website: [nodejs](https://nodejs.org/en/download/)
 
-### `npm start`
+### Installation
+To install Minimalist Portfolio, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*Clone the repository: git clone [Aryan Gupta](https://github.com/aryangupta008/minimalist-portfolio.git)
+*Navigate to the project directory: cd minimalist-portfolio
+*Install the dependencies: npm install
 
 ### `npm test`
 
@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+[MIT License](LICENSE)
